@@ -8,7 +8,7 @@ import {
 
 export default function App() {
     return (
-        <Router>
+        <Router basename="/findme">
             <div>
                 <nav>
                     <ul>
